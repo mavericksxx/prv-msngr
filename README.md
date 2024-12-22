@@ -1,1 +1,1 @@
-prv-msngr
+MERN based messaging app
