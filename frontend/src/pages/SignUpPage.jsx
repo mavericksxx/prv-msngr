@@ -26,7 +26,7 @@ const SignUpPage = () => {
     return true;
   };
 
-
+  // please dont forget the e parameter my god 
   const handleSubmit = (e) => {
     e.preventDefault();
 
